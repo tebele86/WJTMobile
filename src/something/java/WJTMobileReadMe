@@ -1,0 +1,15 @@
+
+
+WJTMobile Readme
+
+This application is a work in progress design intended to work with our webpage, providing mobile access to 
+students classes, grades, assignments, and teacher notes.  
+
+Production by Tyrel Ebele, Joseph Beckner, and Weston Anderson
+
+11/29/12
+Currently the project connects to two webpages and pulls data to fill fields.  
+First page being written in php.  Future development will connect android application to 
+our webpage and dynamically pull the data utilizing JSON from a C#/.net webpage.
+
+

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SDPhoneAppActivity!</string>
+    <string name="app_name">WJTMobile</string>
+    <string name="textUsername">Username:</string>
+    <string name="textPassword">Password:</string>
+    <string name="submit">Submit</string>
+    <string name="blank"></string>
+    <string name="month">April</string>
+    <string name="welcome">Welcome!</string>
+    <string name="prof">Professor</string>
+    <string name="grade">&quot;Grade: &quot;</string>
+    <string name="course">Course</string>
+    <string name="tardy">&quot;Tardies:  &quot;</string>
+    <string name="absent">"Absence(s): "</string>
+    <string name="days">"Total Days: "</string>
+    <string name="student">Please select which student to view:</string>
+    <string name="assignment">"Assignment: "</string>
+    <string name="dueDate">"Due: "</string>
+    <string name="description">"Description: "</string>
+    <string name="loading">Loading</string>
+
+</resources>
